@@ -10,8 +10,6 @@ I worked on this project by following the Codebasics PowerBi Course, The Link to
 
 ❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/business-insight---360)
 
-❇️ MySQL Finding - 
-
 ### Company's Background:
 ---
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
@@ -30,6 +28,12 @@ AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to 
 AtliQ Hardware is struggling to do good business in various parts of the world. So far, all the decisions that AtliQ took have been based on some surveys and intuitions.
 
 AtliQ Team uses MS Excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as the later part of the Project, a dashboard was created for various key departments, so they can get insights on important metrics and make data-driven Decisions.
+
+### Data Source
+we used two databases. In that database, each contains some tables which are explored below.
+- ### gdb041
+- - - hvj
+-  gdb056.
 
 ### WorkFlow:
 ---
