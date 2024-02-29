@@ -31,8 +31,13 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 
 ### Data Source
 we used two databases. In that database, each contains some tables which are explored below.
+
 - ### gdb041
-- - - hvj
+    - ==dim_customer== ==>
+    - ==dim_product== ==>
+    - dim_market ==>
+    - fact_sales_monthly ==>
+    - fact_forecast_monthly ==>
 -  gdb056.
 
 ### WorkFlow:
