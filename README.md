@@ -47,7 +47,24 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c5b0c1a1-7f51-4e54-9236-0cb8f560782b)
 ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c26b7516-1dbb-48aa-a47a-e2f06ecdf82f)
 
-- Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPIs for sales, finance, marketing, and supply chain.
+- Created calculated columns using more than 40 DAX formulas (Formulas listed at the bottom). After the columns are created, verify them in either MySQL.
+- I have created 5 different report views in this report which serve the needs of various stakeholders, and specifically targeted to various departments to give an overview of the company's performance.
+✔ Finance View :
+*- The profit and loss Statement, explains various P&L Metrics from Gross Sales to Net Profit.BM indicates the benchmark, which is Either Last year or the Target, which can be selected through Slicer Provided.
+- KPIs for Net Sales, Gross Margin %, Net Profit %.
+- Net sales Performance Trend in comparison with Target/Last Year which can be selected Dynamically.
+- Top / Bottom Product and Top / Bottom Customers based on Net Sales*
+
+✔ Sales View 
+
+✔ Marketing View 
+
+✔ Supply Chain View
+
+✔ Executive View
+
+
+
 ### Tools Used:
 - MS Excel
 - MySQL
