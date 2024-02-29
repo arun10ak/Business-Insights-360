@@ -15,14 +15,15 @@ I worked on this project by following the Codebasics PowerBi Course, The Link to
 ### Company's Background:
 ---
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
-These customers are of two types,
-    - Physical Stores 
-    - E-commerce platforms
 
-They sell their products through three mediums/channels,
-    - Retailers
-    - Direct
-    - Distributors
+*These customers are of two types,*
+- Physical Stores 
+- E-commerce platforms
+
+*They sell their products through three mediums/channels,*
+- Retailers
+- Direct
+- Distributors
 
 ### Problem Statement
 --- 
