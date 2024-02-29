@@ -31,7 +31,7 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 
 ### Data Source
 we used two databases. In that database, each contains some tables which are explored below.
-
+Extracted CSV file from the database.[File](https://github.com/arun10ak/Business-Insights-360/tree/main/Dataset)
 - ### gdb041
   
     - **dim_customer** 
