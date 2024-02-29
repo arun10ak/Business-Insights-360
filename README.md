@@ -33,12 +33,19 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 we used two databases. In that database, each contains some tables which are explored below.
 
 - ### gdb041
-    - ==dim_customer== ==>
-    - ==dim_product== ==>
-    - dim_market ==>
-    - fact_sales_monthly ==>
-    - fact_forecast_monthly ==>
--  gdb056.
+  
+    - **dim_customer** ==>
+    - **dim_product** ==>
+    - **dim_market** ==>
+    - **fact_sales_monthly** ==>
+    - **fact_forecast_monthly** ==>
+      
+- ### gdb056
+    - **freight_cost** ==>
+    - **gross_price** ==>
+    - **manufacturing_cost** ==>
+    - **pre_invoice_deduction** ==>
+    - **post_invoice_deduction** ==>
 
 ### WorkFlow:
 ---
