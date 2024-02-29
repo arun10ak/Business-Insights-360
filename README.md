@@ -129,7 +129,7 @@ I have created 5 different report views in this report which serve the needs of 
 - MS Excel
 - MySQL
 - Power BI Dashboard
--- DAX Formula [Used Formula]
+-- DAX Formula [Used Formula](https://github.com/arun10ak/Business-Insights-360/blob/main/Atliq%20Hardware%20DAX%20Formula.pdf)
 ### PowerBI techniques Learnt:
 ---
 - What are all the questions that should be asked before starting the project?
