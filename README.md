@@ -40,11 +40,12 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 - Stored Procedures were created for the complex Queries so that Product owners can extract reports by necessary filters.
 
 ### PowerBI Dashboard:
-- Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema, and initial Data validation was done against benchmark values.
+- The first step was to load the data into MySQL Database and connect it to the Power BI. 
 - Review and delete the Database relationship created by Power BI by default. Also, creating the required dimension table in Power Query.Data validation using some tables in Power BI and matching the values with the data provided.
 - Data Transformation. For example, creating a Last Sales Month Reference table. So, the last sales month reference table will be dynamic and will change after every sale. Created calculated columns in Power Query like a fiscal year and merged the tables.
-- Data modelling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
+- Data modeling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
 ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c5b0c1a1-7f51-4e54-9236-0cb8f560782b)
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c26b7516-1dbb-48aa-a47a-e2f06ecdf82f)
 
 - Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPIs for sales, finance, marketing, and supply chain.
 ### Tools Used:
