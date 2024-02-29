@@ -33,7 +33,7 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 
 ### WorkFlow:
 ---
-### MySQL WorkBench
+### MySQL WorkBench:
 - Data was Loaded into Mysql and the database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.
 - Data was ready for Data Analysis and key metrics were Derived, for all the requests from Product owners.
 - A Data pipeline was established in deriving Metrics, with many Data Cleaning methods implemented in between.
@@ -107,13 +107,23 @@ I have created 5 different report views in this report which serve the needs of 
   
 ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/ece6bb19-c89d-4334-9c87-a0a8de5480a0)
 
-
-
-
 ### Tools Used:
+---
+
 - MS Excel
 - MySQL
-- Power BI
+- Power BI Dashboard
+
+### PowerBI techniques Learnt:
+---
+- What are all the questions that should be asked before starting the project?
+- Creating calculated columns,measures using DAX language, and tables using m language.
+- Data modeling
+- Using Bookmarks to switch between two visuals, Page navigation with buttons.
+- Dynamic titles based on the applied filters
+- Conditional formatting of the values in visuals using icons or background color
+
+#                                     Thank You...!!!
   
 
 
