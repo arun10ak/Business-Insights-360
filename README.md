@@ -12,17 +12,31 @@ I worked on this project by following the Codebasics PowerBi Course, The Link to
 
 ❇️ MySQL Finding - 
 
+### Company's Background:
+---
+AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
+These customers are of two types,
+    - Physical Stores 
+    - E-commerce platforms
+
+They sell their products through three mediums/channels,
+    - Retailers
+    - Direct
+    - Distributors
+
+### Problem Statement
+--- 
+AtliQ Hardware is struggling to do good business in various parts of the world. So far, all the decisions that AtliQ took have been based on some surveys and intuitions.
+
+AtliQ Team uses MS Excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as the later part of the Project, a dashboard was created for various key departments, so they can get insights on important metrics and make data-driven Decisions.
+
+
 ### Tools Used:
 - MS Excel
 - MySQL
 - Power BI
   
-### About Company:
----
-AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
-These customers are of two types – Physical Stores and E-commerce platforms.
 
-### Problem Statement
-AtliQ Hardware is struggling to do good business in various parts of the world. So far, all the decisions that AtliQ took have been based on some surveys and intuitions.
 
-AtliQ Team uses MS Excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as the later part of the Project, a dashboard was created for various key departments, so they can get insights on important metrics and make data-driven Decisions.
+
+
