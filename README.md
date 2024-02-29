@@ -48,20 +48,58 @@ AtliQ Team uses MS Excel for data analysis but as the business expands globally 
 ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c26b7516-1dbb-48aa-a47a-e2f06ecdf82f)
 
 - Created calculated columns using more than 40 DAX formulas (Formulas listed at the bottom). After the columns are created, verify them in either MySQL.
-- I have created 5 different report views in this report which serve the needs of various stakeholders, and specifically targeted to various departments to give an overview of the company's performance.
+- 
+### Dashboard Overview:
+---
+✔ Home:
+
+The first page of the report is a home page with the navigation to all other views and a summary of each page so a user can directly access the report they need to look at.
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/bed29a7a-82ed-4d4d-b6d6-5fc35887251d)
+---
+
+I have created 5 different report views in this report which serve the needs of various stakeholders, and specifically targeted to various departments to give an overview of the company's performance.
+
 ✔ Finance View :
-*- The profit and loss Statement, explains various P&L Metrics from Gross Sales to Net Profit.BM indicates the benchmark, which is Either Last year or the Target, which can be selected through Slicer Provided.
+
+- The profit and loss Statement, explains various P&L Metrics from Gross Sales to Net Profit.BM indicates the benchmark, which is Either Last year or the Target, which can be selected through Slicer Provided.
 - KPIs for Net Sales, Gross Margin %, Net Profit %.
 - Net sales Performance Trend in comparison with Target/Last Year which can be selected Dynamically.
-- Top / Bottom Product and Top / Bottom Customers based on Net Sales*
+- Top / Bottom Products and Top / Bottom Customers based on Net Sales
+  ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/321f8881-e9e7-474c-8e28-436a04248100)
 
-✔ Sales View 
+✔ Sales View :
 
-✔ Marketing View 
+- Unit Economics 1: Net Sales vs Total Post Invoice Discount Amount and Pre-Invoice Discount Amount given by the Company.
+- Unit Economics 2: Total Cost of Goods Sold (COGS) spent by the Company and then finally got the actual Gross Margin.
+- Customer and Product Performance analysis based on Net Sales, Gross Margin, and Gross Margin %.
+- Performance Matrix analysis for Market, Customer, and Region based on Net Sales and Gross Margin %.
+- Sales Trend Tooltip for every single Customer based on Net Sales and Gross Margin %.
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/5166a159-01ee-47c4-ac91-a4ec412660dc)
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/3b2cc835-28d5-4cc4-a94e-7b15eb97f3b7)
 
-✔ Supply Chain View
+✔ Marketing View :
 
-✔ Executive View
+- Unit Economics: There are some Operational Expenses spent for the Product. After subtracting these Expenses got the actual scenario of Net Profit.
+- Performance Matrix analysis for Segment, Category, and Product based on both “Net Sales & Net Profit %” and “Net Sales & Gross Margin %” by using a dynamic toggle button.
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/6ef1f022-b036-4cdb-a286-1992b33e2c92)
+
+✔ Supply Chain View :
+
+- KPIs for Forecast Accuracy, Net Error, ABS Error.
+- Risk Factor analysis.
+- Accuracy vs Net Error Trend analysis.
+- Key Metrics for both Customer and Products based on FA%, FA% LY, Net Error, Net Error%, Risk Factor.
+  ![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/226525df-ab9b-4112-bc5b-66c2fa769a52)
+
+✔ Executive View :
+
+- Report Page for the Top Level Management of the Company who want to check on all key metrics and KPIs.
+- Market Share Trend analysis for AtliQ and other competitors.
+- Revenue analysis by Division and Channel.
+- Top 5 Products and Top 5 Customers by Revenue.
+- Key Insights by Sub Zone with Revenue Contribution % analysis.
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/ece6bb19-c89d-4334-9c87-a0a8de5480a0)
+
 
 
 
