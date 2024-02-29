@@ -129,11 +129,11 @@ I have created 5 different report views in this report which serve the needs of 
 - MS Excel
 - MySQL
 - Power BI Dashboard
-
+-- DAX Formula [Used Formula]
 ### PowerBI techniques Learnt:
 ---
 - What are all the questions that should be asked before starting the project?
-- Creating calculated columns,measures using DAX language, and tables using m language.
+- Creating calculated columns, measures using DAX language, and tables using m language.
 - Data modeling
 - Using Bookmarks to switch between two visuals, Page navigation with buttons.
 - Dynamic titles based on the applied filters
