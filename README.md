@@ -8,7 +8,8 @@ AtliQ Hardware has been growing rapidly in recent years, and they have decided t
 
 I worked on this project by following the Codebasics PowerBi Course, The Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/business-insight---360)
+❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/business-insight---360)
+❇️ MySQL Finding - 
 ### About Company:
 ---
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
