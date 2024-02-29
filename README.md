@@ -3,11 +3,12 @@
 ## SQL Data Exploration & Power BI Dashboard
 ### Domain: Financial Domain
 ### Project Overview:
+--- 
 AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like finance, sales, marketing, and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course, The Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-Live Report Link
+[Live Report Link](https://www.novypro.com/project/business-insight---360)
 ### About Company:
 ---
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart, etc.
