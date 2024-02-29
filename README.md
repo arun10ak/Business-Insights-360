@@ -25,13 +25,28 @@ AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers, etc to 
 - Direct
 - Distributors
 
-### Problem Statement
+### Problem Statement:
 --- 
 AtliQ Hardware is struggling to do good business in various parts of the world. So far, all the decisions that AtliQ took have been based on some surveys and intuitions.
 
 AtliQ Team uses MS Excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as the later part of the Project, a dashboard was created for various key departments, so they can get insights on important metrics and make data-driven Decisions.
 
+### WorkFlow:
+---
+### MySQL WorkBench
+- Data was Loaded into Mysql and the database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.
+- Data was ready for Data Analysis and key metrics were Derived, for all the requests from Product owners.
+- A Data pipeline was established in deriving Metrics, with many Data Cleaning methods implemented in between.
+- Stored Procedures were created for the complex Queries so that Product owners can extract reports by necessary filters.
 
+### PowerBI Dashboard:
+- Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema, and initial Data validation was done against benchmark values.
+- Review and delete the Database relationship created by Power BI by default. Also, creating the required dimension table in Power Query.Data validation using some tables in Power BI and matching the values with the data provided.
+- Data Transformation. For example, creating a Last Sales Month Reference table. So, the last sales month reference table will be dynamic and will change after every sale. Created calculated columns in Power Query like a fiscal year and merged the tables.
+- Data modelling is a connection between different tables using a common table between them. In this project, Start Schema is used for Data Modelling where all the dimension tables were connected with Fact tables.
+![image](https://github.com/arun10ak/Business-Insights-360/assets/117892039/c5b0c1a1-7f51-4e54-9236-0cb8f560782b)
+
+- Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPIs for sales, finance, marketing, and supply chain.
 ### Tools Used:
 - MS Excel
 - MySQL
