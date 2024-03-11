@@ -1,4 +1,4 @@
-# Business-Insights-360 [SQL | Power BI | MS Excel]
+# Business-Insights-360 [MS Excel | SQL | Power BI]
 ---
 ## SQL Data Exploration & Power BI Dashboard
 ### Domain: Financial Domain
@@ -8,9 +8,13 @@ AtliQ Hardware has been growing rapidly in recent years, and they have decided t
 
 I worked on this project by following the Codebasics PowerBi Course, The Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
+❇️ MS Excel - [Report](https://github.com/arun10ak/Excel-AtliQ-Hardware-P-and-L-Analysis_)
+
 ❇️ SQL - [Ad-Hoc Insights](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware-SQL)
 
 ❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/business-insight---360)
+
+
 
 
 ### Company's Background:
